@@ -1,0 +1,19 @@
+#container {
+    outline: 1px solid black;
+    position: relative;
+    height: 960px;
+    width: 960px;
+    margin: auto;
+    padding: 0;
+    border: none;
+    font-size: 0;
+}
+
+.grid {
+    border: none;
+    outline: 1px solid black;
+    display: inline-block;
+    padding-bottom: 0;
+}
+
+
